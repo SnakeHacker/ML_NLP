@@ -42,7 +42,6 @@ public class HMM {
 
 			}
 
-
 		double result = 0;
 		for (int i = 0; i < data[data.length-1].length; i++) {
 			result += data[data.length-1][i];
