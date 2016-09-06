@@ -10,7 +10,7 @@ public class HMM {
 	
 	/**
 	 * 
-	   * @Name: forward 前向传播算法 ，预测观测序列(暂不考虑隐含状态)
+	   * @Name: forward 前向传播算法 ，预测观测序列(暂不考虑隐含状态发射概率问题)
 	   * @Description: @param a 状态转移概率矩阵
 	   * @Description: @param b 观测概率矩阵
 	   * @Description: @param pi 初始状态概率向量
