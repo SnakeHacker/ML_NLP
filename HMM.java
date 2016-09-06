@@ -1,5 +1,3 @@
-package com.test;
-
 public class HMM {
 	public static void main(String args[]){
 		double [][]a = {{0.5,0.2,0.3},{0.3,0.5,0.2},{0.2,0.3,0.5}};

@@ -1,5 +1,3 @@
-package com.test;
-
 public class perceptron {
 	public static void main(String args[]){
 		double [][]datax = {{1,2,3,4},{1,2,3,5},{2,2,3,4},{3,2,3,4}};
